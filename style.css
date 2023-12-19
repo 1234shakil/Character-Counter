@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+    color: aliceblue;
+    font-family: sans-serif;
+    text-align: center;
+}
+textarea{
+    width: 500px;
+    height: 100px;
+    background-color: transparent;
+    border: none    ;
+    border: 1px solid white;
+    color: azure;
+    font-size: 22px;
+}
+h6{
+    text-align: center;
+    font-size: 24px;
+}
